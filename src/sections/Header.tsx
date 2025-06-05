@@ -27,7 +27,7 @@ export const Header = () => {
       }`}
       style={{ height: '60px' }} // fix height to match translate value
     >
-      <nav className="flex gap-1 p-0.5 border border-white/15 rounded-full bg-white/10 backdrop-blur">
+      <nav className="flex gap-[0.25] p-0.5 border border-white/15 rounded-full bg-white/10 backdrop-blur">
         <a href="#" className="nav-item">
           Home
         </a>
