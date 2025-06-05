@@ -136,14 +136,12 @@ export const HeroSection = () => {
             <div className="bg-green-500 size-2.5 rounded-full relative">
               <div className=" absolute bg-green-500 inset-0 rounded-full animate-ping-large"></div>
             </div>
-            <div className="text-sm font-medium">
-              Available for new projects
-            </div>
+            <div className="text-sm font-medium">Available for new projects</div>
           </div>
         </div>
         <div className="max-w-lg mx-auto">
           <h1 className="font-serif text-4xl md:text-5xl text-center tracking-wide mt-8 ">
-            <span className="block">G'day, I'm</span>
+            <span className="block">G&apos;day, I&apos;m</span>
             <span className="block my-3">Anmol Singh,</span>
           </h1>
           <h1 className="text-3xl font-bold bg-gradient-to-r from-emerald-300 to-yellow-400 text-transparent bg-clip-text flex justify-center">
@@ -186,7 +184,7 @@ export const HeroSection = () => {
           bg-white text-gray-900 px-6 h-12 rounded-xl"
             >
               <span>👋</span>
-              <span className="font-semibold">Let's Connect</span>
+              <span className="font-semibold">Let&apos;s Connect</span>
             </button>
           </a>
         </div>
